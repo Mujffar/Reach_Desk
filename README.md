@@ -31,4 +31,4 @@ mkdir –p target/release
 wget https://raw.githubusercontent.com/c-smile/sciter-sdk/master/bin.win/x64/sciter.dll
 cp sciter.dll target/release
 python3 build.py
-Our ReachDesk.exe file is available in reachdesk/target/release/
+Our ReachDesk.exe file is available in reachdesk/target/release
